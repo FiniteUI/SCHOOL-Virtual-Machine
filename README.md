@@ -1,5 +1,5 @@
 # Virtual-Machine, Spring 2017
-This is a project for my Spring 2017 Computer Architecture class. It is a simple virtual stack machine written in Java with an instruction set specified by the professor.
+This is the final project for my Spring 2017 Computer Architecture class. It is a simple virtual stack machine written in Java with an instruction set specified by the professor.
 
 Full details for the assignment are available in VirtualMachineAssignment.pdf
 
